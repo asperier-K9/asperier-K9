@@ -3,7 +3,7 @@
 [![](./src/header_.png)](#)
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-> <b>I just code for fun!!</b>\
+> <b>I just code for fun!!</b>
 
 </br>
 
@@ -30,7 +30,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-555?style=flat&logo=jupyter)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-555?style=flat&logo=adobe-illustrator)&nbsp;
-Hub Stats"/></a></td>
-    </tr>
-</table>
+
 
