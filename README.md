@@ -91,21 +91,13 @@ i build scalable web applications and interactive experiences with a focus on cl
     </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cloudQuest7/cloudQuest7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cloudQuest7/cloudQuest7/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/R3ner/R3ner/output/pacman-contribution-graph.svg">
-</picture>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B4D6A1&height=70&section=header"/>
 <br>
 	
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
 [![](https://visitcount.itsvg.in/api?id=cloudQuest7&icon=2&color=1)](https://visitcount.itsvg.in)
 
 
