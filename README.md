@@ -91,7 +91,9 @@ i build scalable web applications and interactive experiences with a focus on cl
     </tr>
 </table>
 
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
-[![](https://visitcount.itsvg.in/api?id=cloudQuest7&icon=2&color=1)](https://visitcount.itsvg.in)
 
 
