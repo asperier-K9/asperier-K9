@@ -7,7 +7,19 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Junior%20Game%20Developer;Pixel%20Artist;Prototyper&font=Fira%20Code&center=true&width=600&height=60&color=D2042D&vCenter=true&pause=1000&size=28" alt="Typing SVG"/>
 </p>
 
-
+<!-- Social icons section -->
+<p align="center">
+  <a href="http://www.linkedin.com/in/anjali-jayakumar-145902320"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/anjali_j79"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/Y9uUv6JF" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/oncloud_9"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
 
 <p align="center">
     <!-- Status badge (customize as needed) -->
@@ -43,22 +55,6 @@ i build scalable web applications and interactive experiences with a focus on cl
 
 </br>
      
-        
-## <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25"> <b> Socials</b>
-<!-- Social icons section -->
-<p align="center">
-  <a href="http://www.linkedin.com/in/anjali-jayakumar-145902320"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/anjali_j79"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/Y9uUv6JF" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/oncloud_9"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
-</p>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
 <br>
 
