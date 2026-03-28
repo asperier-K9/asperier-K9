@@ -87,8 +87,3 @@ i build scalable web applications and interactive experiences with a focus on cl
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;I%20love%20connecting%20with%20people%20who%20share%20similar%20interests&font=Fira%20Code&center=true&width=700&height=60&color=D2042D&vCenter=true&pause=1000&size=28" alt="Typing SVG"/>
-</p>
-
