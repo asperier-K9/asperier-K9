@@ -3,9 +3,6 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='170"'>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Junior%20Game%20Developer;Pixel%20Artist;Prototyper&font=Fira%20Code&center=true&width=600&height=60&color=D2042D&vCenter=true&pause=1000&size=28" alt="Typing SVG"/>
-</p>
 
 <!-- Social icons section -->
 <p align="center">
@@ -91,4 +88,7 @@ i build scalable web applications and interactive experiences with a focus on cl
 <br>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;I%20love%20connecting%20with%20people%20who%20share%20similar%20interests&font=Fira%20Code&center=true&width=700&height=60&color=D2042D&vCenter=true&pause=1000&size=28" alt="Typing SVG"/>
+</p>
 
