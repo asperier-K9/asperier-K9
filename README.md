@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Junior%20Game%20Developer;Pixel%20Artist;Prototyper&font=Fira%20Code&center=true&width=600&height=60&color=D2042D&vCenter=true&pause=1000&size=28" alt="Typing SVG"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20With-Passion-D2042D?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Creativity-100%25-D2042D?style=for-the-badge&logo=star" />
-</p>
 <!-- Social icons section -->
 <p align="center">
   <a href="http://www.linkedin.com/in/anjali-jayakumar-145902320"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
@@ -48,7 +44,6 @@
     <img src="https://komarev.com/ghpvc/?username=cloudQuest7&color=blue" alt="Profile Views"/>
 </p>
 
-### about me
 
 i’m Anjali, a full stack developer and junior game developer.
 
