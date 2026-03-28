@@ -44,7 +44,7 @@ i build scalable web applications and interactive experiences with a focus on cl
 </br>
      
         
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> <b> Socials</b>  
+## <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25"> <b> Socials</b>
 <!-- Social icons section -->
 <p align="center">
   <a href="http://www.linkedin.com/in/anjali-jayakumar-145902320"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
