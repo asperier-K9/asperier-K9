@@ -48,7 +48,15 @@
     <img src="https://komarev.com/ghpvc/?username=cloudQuest7&color=blue" alt="Profile Views"/>
 </p>
 
-> <b>I'm a creative and impact-driven Full Stack Developer and Junior Game Develpoer who loves building both real-world web apps and story-rich games.I work mainly with the Unity Engine and backend technologies, blending logic and creativity to bring ideas to life. Currently explorin' machine learning & always experimenting with new tools to level up. Whether it’s a full-stack web app or a story-driven game, I’m all about coding things that feel meaningful, fun, and impactful — powered by curiosity and chaotic creativity ⚡🎮..</b>
+### about me
+
+i’m Anjali, a full stack developer and junior game developer.
+
+i build scalable web applications and interactive experiences with a focus on clean architecture and simplicity.
+
+- full stack and game development  
+- backend systems, web, and machine learning  
+- consistency and depth over speed
 
 </br>
      
