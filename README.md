@@ -5,12 +5,8 @@ AGENT ASPERIER
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║          C L A S S I F I E D  D O S S I E R          ║
-║                  [ EYES ONLY ]                        ║
-╚══════════════════════════════════════════════════════╝
-```
+
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=500&lines=agent.asperier+%2F%2F+ONLINE;identity%3A+classified;do+not+attempt+to+trace+this;pushing+code+at+03%3A47+AM;no+traces+left+behind." alt="typing" />
 
@@ -44,21 +40,7 @@ AGENT ASPERIER
 
 </div>
 
----
 
-## `$ cat /etc/agent/profile.txt`
-
-```bash
-▶  Identity   : Unknown. Everywhere. Watching.
-▶  Species    : Felis silvestris (enhanced)
-▶  Base       : the internet. all of it.
-▶  Specialty  : things that don't exist yet
-▶  Active hrs : 00:00 — 04:00
-▶  Traced     : [NULL]
-▶  Mission    : ████████ [REDACTED]
-```
-
----
 
 ## `$ ls /ops/active/`
 
@@ -101,30 +83,4 @@ AGENT ASPERIER
 
 </div>
 
----
 
-## `$ ping agent.asperier`
-
-```
-Request timeout for icmp_seq 0 ...
-Request timeout for icmp_seq 1 ...
-Request timeout for icmp_seq 2 ...
-
-⚠  Agent is aware of you.
-⚠  Agent will respond when ready.
-✦  Do not attempt to trace this connection.
-```
-
----
-
-<div align="center">
-
-```
-[ AGENT.ASPERIER // GITHUB DOSSIER v0.0.1 // EYES ONLY ]
-```
-
-![Visitor Count](https://visitor-badge.liteflare.com/badge?page_id=agent-asperier.agent-asperier)
-
-*"I push code at 3am and I leave no traces."*
-
-</div>
